@@ -1,0 +1,20 @@
+//
+//  DateHeaderView.swift
+//  BankStatement
+//
+//  Created by Manab Kumar Mal on 26/06/21.
+//
+
+import UIKit
+
+class DateHeaderView: UIView {
+
+    /*
+    // Only override draw() if you perform custom drawing.
+    // An empty implementation adversely affects performance during animation.
+    override func draw(_ rect: CGRect) {
+        // Drawing code
+    }
+    */
+
+}
